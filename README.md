@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EivindSka
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning basic programming
+- 👀 I’m interested in AI , Game Development and Cool Websites
+- 🌱 I’m currently learning basic programming in Python and HTML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me eivind.skarnes@woodplc.com
 
